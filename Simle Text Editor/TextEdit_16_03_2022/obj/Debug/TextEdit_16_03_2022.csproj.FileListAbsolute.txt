@@ -1,0 +1,51 @@
+C:\Users\stud\source\repos\TextEdit_16_03_2022\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.exe
+C:\Users\stud\source\repos\TextEdit_16_03_2022\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.pdb
+C:\Users\stud\source\repos\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.Form1.resources
+C:\Users\stud\source\repos\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.Properties.Resources.resources
+C:\Users\stud\source\repos\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.GenerateResource.cache
+C:\Users\stud\source\repos\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.exe
+C:\Users\stud\source\repos\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.pdb
+D:\информация пользователя\Desktop\TextEdit_16_03_2022\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.exe
+D:\информация пользователя\Desktop\TextEdit_16_03_2022\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.pdb
+D:\информация пользователя\Desktop\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csprojAssemblyReference.cache
+D:\информация пользователя\Desktop\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.Form1.resources
+D:\информация пользователя\Desktop\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.Properties.Resources.resources
+D:\информация пользователя\Desktop\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.GenerateResource.cache
+D:\информация пользователя\Desktop\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.CoreCompileInputs.cache
+D:\информация пользователя\Desktop\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.exe
+D:\информация пользователя\Desktop\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.pdb
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_16_03_2022\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.exe.config
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_16_03_2022\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.exe
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_16_03_2022\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.pdb
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.AssemblyReference.cache
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.SuggestedBindingRedirects.cache
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.Form1.resources
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.Properties.Resources.resources
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.GenerateResource.cache
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.CoreCompileInputs.cache
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.exe
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_16_03_2022\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.pdb
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.exe.config
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.exe
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.pdb
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.AssemblyReference.cache
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.SuggestedBindingRedirects.cache
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.Form1.resources
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.Properties.Resources.resources
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.GenerateResource.cache
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.CoreCompileInputs.cache
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.exe
+D:\Daniil\Desktop\Everything\YSTU\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.pdb
+D:\Daniil\Desktop\YSTU\Old\2 курс\1 семестр\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.exe.config
+D:\Daniil\Desktop\YSTU\Old\2 курс\1 семестр\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.exe
+D:\Daniil\Desktop\YSTU\Old\2 курс\1 семестр\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\bin\Debug\TextEdit_16_03_2022.pdb
+D:\Daniil\Desktop\YSTU\Old\2 курс\1 семестр\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.AssemblyReference.cache
+D:\Daniil\Desktop\YSTU\Old\2 курс\1 семестр\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.SuggestedBindingRedirects.cache
+D:\Daniil\Desktop\YSTU\Old\2 курс\1 семестр\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.Form1.resources
+D:\Daniil\Desktop\YSTU\Old\2 курс\1 семестр\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.Properties.Resources.resources
+D:\Daniil\Desktop\YSTU\Old\2 курс\1 семестр\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.GenerateResource.cache
+D:\Daniil\Desktop\YSTU\Old\2 курс\1 семестр\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.csproj.CoreCompileInputs.cache
+D:\Daniil\Desktop\YSTU\Old\2 курс\1 семестр\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.exe
+D:\Daniil\Desktop\YSTU\Old\2 курс\1 семестр\Технологии программирования C#\LR3\TextEdit_task_1\TextEdit_16_03_2022\obj\Debug\TextEdit_16_03_2022.pdb
